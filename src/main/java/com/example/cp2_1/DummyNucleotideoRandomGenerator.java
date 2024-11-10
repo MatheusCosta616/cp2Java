@@ -1,4 +1,4 @@
-package com.example;
+package com.example.cp2_1;
 
 import java.util.Random;
 
